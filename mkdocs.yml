@@ -1,44 +1,83 @@
+---
 site_name: A Blog
 site_author: Xiaofeixia
+site_url: https://wstd.pages.dev
 copyright: Copyright © 2025 Xiaofeixia
 repo_url: https://github.com/Xiaofeixia2008/blog/
-
 theme:
   name: material
   features:
+    - content.code.annotate
+    - content.code.copy
+    - content.tabs.link
+    - navigation.instant
+    - navigation.instant.prefetch
+    - navigation.instant.progress
+    - navigation.indexes
+    - navigation.prune
+    - navigation.top
     - search.highlight
+    - search.share
     - search.suggest
-
+    - toc.follow
+  font:
+    code: Fira Code
+  language: zh
+  palette:
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/brightness-auto
+        name: 切换到亮色模式
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: 切换到暗色模式
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: 切换到自动模式
 markdown_extensions:
+  - attr_list
   - footnotes
   - md_in_html
-  - smarty
   - tables
   - toc:
       permalink: true
-      separator: _
   - pymdownx.arithmatex:
       generic: true
-  - pymdownx.betterem:
-      smart_enable: asterisk
+  - pymdownx.betterem
   - pymdownx.blocks.admonition
   - pymdownx.blocks.details
-  - pymdownx.blocks.tab
+  - pymdownx.blocks.tab:
+      alternate_style: true
+      slugify: !!python/object/apply:pymdownx.slugs.slugify
+        kwds:
+          case: lower
   - pymdownx.caret
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
   - pymdownx.fancylists
   - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
       linenums: true
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
   - pymdownx.keys:
       camel_case: true
   - pymdownx.magiclink:
       repo_url_shortener: true
-      user: PumpkinJui
+      user: Xiaofeixia2008
       repo: blog
       normalize_issue_symbols: true
   - pymdownx.mark
   - pymdownx.progressbar
   - pymdownx.saneheaders
   - pymdownx.smartsymbols
+  - pymdownx.snippets
   - pymdownx.superfences:
       disable_indented_code_blocks: true
       preserve_tabs: true
@@ -46,21 +85,39 @@ markdown_extensions:
         - name: mermaid
           class: mermaid
           format: !!python/name:pymdownx.superfences.fence_code_format
-  - pymdownx.tasklist
+  - pymdownx.tasklist:
+      custom_checkbox: true
   - pymdownx.tilde
   - mdx_truly_sane_lists
-
 plugins:
   - search
+  - blog:
+      blog_toc: true
+      post_excerpt: required
   - offline
+  - privacy:
+      enabled: !ENV [CI, false]
+  - social:
+      enabled: !ENV [CI, false]
+      cards_layout_options:
+        font_family: Source Sans 3
+  - tags
   - git-revision-date-localized:
+      enable_creation_date: true
       fallback_to_build_date: true
-
+  - rss:
+      enabled: !ENV [CI, false]
+      match_path: blog/posts/.*
+      date_from_meta:
+        as_creation: date.created
+        as_update: date.updated
+      categories:
+        - categories
+        - tags
 extra_javascript:
-  - path: https://cdn.jsdmirror.com/npm/mermaid@latest/dist/mermaid.esm.min.mjs
-    type: module
-    async: true
   - path: https://cdn.jsdmirror.com/npm/mathjax@3/es5/tex-chtml-full.js
     defer: true
   - path: scripts/mathjax.js
     defer: true
+  - path: scripts/eruda.js
+    async: true
