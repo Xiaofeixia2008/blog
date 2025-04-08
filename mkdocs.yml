@@ -39,6 +39,7 @@ theme:
         icon: material/brightness-4
         name: 切换到自动模式
 markdown_extensions:
+  - admonition
   - attr_list
   - footnotes
   - md_in_html
