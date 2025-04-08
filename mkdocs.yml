@@ -25,6 +25,7 @@ theme:
     code: Fira Code
   language: zh
   palette:
+    primary: indigo
     - media: "(prefers-color-scheme)"
       toggle:
         icon: material/brightness-auto
@@ -128,4 +129,4 @@ extra_javascript:
     async: true
 nav:
   - 博客:
-    blog/index.md
+    - blog/index.md
