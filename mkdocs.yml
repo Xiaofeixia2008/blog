@@ -15,6 +15,7 @@ theme:
     - navigation.instant.progress
     - navigation.indexes
     - navigation.prune
+    - navigation.sections
     - navigation.top
     - search.highlight
     - search.share
@@ -95,7 +96,9 @@ plugins:
   - search
   - blog:
       blog_toc: true
-      archive: false
+      categories_allowed:
+        - example
+        - MC开发
   - offline
   - privacy:
       enabled: !ENV [CI, false]
@@ -124,4 +127,5 @@ extra_javascript:
   - path: scripts/eruda.js
     async: true
 nav:
-  - 博客: blog/index.md
+  - 博客:
+    blog/index.md
