@@ -39,7 +39,6 @@ theme:
       toggle:
         icon: material/brightness-4
         name: 切换到自动模式
-    primary: green
 markdown_extensions:
   - admonition
   - attr_list
