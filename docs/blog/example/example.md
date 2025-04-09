@@ -13,6 +13,6 @@ links:
   blog/index.md
 readtime: 114514
 ---
-# 实例博客
+# 示例博客
 
 <!-- more -->
