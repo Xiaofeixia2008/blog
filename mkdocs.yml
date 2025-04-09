@@ -128,4 +128,4 @@ extra_javascript:
     async: true
 nav:
   - 博客:
-    - blog/index.md
+    - 近期博客: blog/index.md

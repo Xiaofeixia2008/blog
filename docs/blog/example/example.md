@@ -8,7 +8,7 @@ categories:
 tags:
   - example
 description: example
-slug: 这是帖子的简短描述
+slug: example
 links:
   blog/index.md
 readtime: 114514
