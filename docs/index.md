@@ -4,7 +4,7 @@
 
 下面是一些数据牌子 =P
 
-部署状态。部署成功时为passing，失败时为failing，处于部署过程中为pending。[![Branch Check Runs.](https://img.shields.io/github/check-runs/Xiaofeixia2008/blog/test?style=flat&logo=cloudflare&logoColor=white)](https://wstd.pages.dev)
+部署状态。部署成功时为passing，失败时为failing，处于部署过程中为pending。![Branch Check Runs.](https://img.shields.io/github/check-runs/Xiaofeixia2008/blog/test?style=flat&logo=cloudflare&logoColor=white)
 
 许可证类型。![License: CC BY NC 4.0.](https://img.shields.io/github/license/Xiaofeixia2008/blog?style=flat&logo=creativecommons&logoColor=white&color=477DB2)
 
