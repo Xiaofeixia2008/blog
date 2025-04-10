@@ -40,7 +40,6 @@ theme:
         icon: material/brightness-4
         name: 切换到自动模式
 markdown_extensions:
-  - admonition
   - attr_list
   - footnotes
   - md_in_html
@@ -99,7 +98,7 @@ plugins:
       categories_allowed:
         - example
         - MC开发
-  #- offline
+  - offline
   - privacy:
       enabled: !ENV [CI, false]
   - social:
