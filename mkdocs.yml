@@ -1,5 +1,5 @@
 ---
-site_name: A Blog
+site_name: 小飞侠的博客
 site_author: Xiaofeixia
 site_url: https://wstd.pages.dev
 copyright: Copyright © 2025 Xiaofeixia
@@ -15,6 +15,7 @@ theme:
     - navigation.instant.progress
     - navigation.indexes
     - navigation.prune
+    - navigation.sections
     - navigation.top
     - search.highlight
     - search.share
@@ -56,6 +57,7 @@ markdown_extensions:
         kwds:
           case: lower
   - pymdownx.caret
+  - pymdownx.details
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
@@ -87,14 +89,16 @@ markdown_extensions:
           format: !!python/name:pymdownx.superfences.fence_code_format
   - pymdownx.tasklist:
       custom_checkbox: true
-  - pymdownx.tilde
+  - pymdownx.tilde:
+      smart_delete: false
   - mdx_truly_sane_lists
 plugins:
   - search
   - blog:
       blog_toc: true
-      post_excerpt: required
-      post_url_date_format: yyyy
+      categories_allowed:
+        - example
+        - MC开发
   - offline
   - privacy:
       enabled: !ENV [CI, false]
@@ -122,3 +126,6 @@ extra_javascript:
     defer: true
   - path: scripts/eruda.js
     async: true
+nav:
+  - 博客:
+    - 近期博客: blog/index.md
