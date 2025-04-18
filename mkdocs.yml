@@ -97,7 +97,6 @@ plugins:
   - blog:
       blog_toc: true
       categories_allowed:
-        - example
         - MC开发
   - offline
   - privacy:
@@ -126,3 +125,10 @@ extra_javascript:
     defer: true
   - path: scripts/eruda.js
     async: true
+nav:
+  - 首页: index.md
+  - 博客:
+    - 近期博客: blog/index.md
+  - 模板:
+    - 博客元数据: template/blog.md
+    - 警告框: template/admonitions.md
