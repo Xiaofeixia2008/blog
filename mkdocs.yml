@@ -13,7 +13,7 @@ theme:
     - navigation.instant
     - navigation.instant.prefetch
     - navigation.instant.progress
-    - navigation.indexes
+    # - navigation.indexes
     - navigation.prune
     - navigation.sections
     - navigation.top
@@ -121,15 +121,10 @@ plugins:
       categories:
         - categories
         - tags
-extra_javascript:
-  - path: https://cdn.jsdmirror.com/npm/mathjax@3/es5/tex-chtml-full.js
-    defer: true
-  - path: scripts/mathjax.js
-    defer: true
 nav:
   - 首页: index.md
   - 博客:
-    - 近期博客: blog/index.md
+    - blog/index.md
   - 模板:
     - 博客元数据: template/blog.md
     - 警告框: template/admonitions.md
