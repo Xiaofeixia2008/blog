@@ -102,8 +102,8 @@ plugins:
       categories_allowed:
         - MC开发
   - offline
-  - privacy:
-      enabled: !ENV [CI, false]
+  # - privacy:
+  #     enabled: !ENV [CI, false]
   - social:
       enabled: !ENV [CI, false]
       cards_layout_options:
@@ -121,6 +121,10 @@ plugins:
       categories:
         - categories
         - tags
+  - encryptcontent:
+      title_prefix: ''
+      password_inventory:
+          pwd: !!python/object/apply:os.getenv ["MKDOCS_ENCRYPT_PASSWORD"]
 nav:
   - 首页: index.md
   - 博客:
