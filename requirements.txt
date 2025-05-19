@@ -8,3 +8,4 @@ mkdocs-git-revision-date-localized-plugin
 mkdocs-rss-plugin
 tzdata
 mkdocs-encryptcontent-plugin
+mkdocs-open-in-new-tab

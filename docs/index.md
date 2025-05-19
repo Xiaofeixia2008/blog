@@ -2,6 +2,8 @@
 
 点击侧边栏或者[这里](blog/index.md)，就可以找到我的博客喔~
 
+<!-- markdownlint-disabled -->
+
 <br>
 <div>
   <script>
@@ -9,7 +11,7 @@
     const today = new Date();
     const oneDay = 24 * 60 * 60 * 1000;
     const diffDays = Math.ceil((targetDate - today) / oneDay);
-    document.write("离2026年高考还有 <b>" + diffDays + "</b> 天，要努力学习噢！");
+    document.write("离 2026 年高考还有 <b>" + diffDays + "</b> 天，要努力学习噢！");
   </script>
 </div>
 <br>
@@ -20,3 +22,5 @@
     document.write("本网站已经稳定运行了 <b>" + serveDays + "</b> 天。");
   </script>
 </div>
+
+<!-- markdownlint-enabled -->

@@ -125,6 +125,7 @@ plugins:
       title_prefix: ''
       password_inventory:
           pwd: !!python/object/apply:os.getenv ["MKDOCS_ENCRYPT_PASSWORD"]
+  - open-in-new-tab
 nav:
   - 首页: index.md
   - 博客:
