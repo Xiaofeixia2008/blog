@@ -131,5 +131,5 @@ nav:
   - 博客:
     - blog/index.md
   - 模板:
-    - 博客元数据: template/blog.md
+    - 博客元数据: template/blog-metadata.md
     - 警告框: template/admonitions.md
