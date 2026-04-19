@@ -1,0 +1,33 @@
+.heimu {
+	color: transparent;
+	background-color: #000000;
+	transition: color 0.25s;
+}
+
+.heimu *, .heimu a {
+	color: transparent;
+	background-color: transparent;
+	cursor: default;
+	text-decoration: none;
+	transition: color 0.25s;
+}
+
+.heimu::selection, .heimu *::selection {
+	color: #ffffff;
+	background: rgba(0, 0, 0, 0.75);
+}
+
+@media (pointer: fine), (pointer: coarse) {
+	.heimu:hover, .heimu *:hover, .heimu a:hover, .heimu a:active, .heimu a *:hover, .heimu a *:active {
+		color: #ffffff;
+	}
+	.heimu a:hover, .heimu a:active, .heimu a *:hover, .heimu a *:active {
+		cursor: pointer;
+	}
+}
+
+@media (pointer: none) {
+	.heimu:focus {
+		color: #ffffff;
+	}
+}

@@ -1,4 +1,4 @@
----
+﻿---
 site_name: 小飞侠的博客
 site_author: Xiaofeixia
 site_url: https://wstd.pages.dev
@@ -10,10 +10,11 @@ theme:
     - content.code.annotate
     - content.code.copy
     - content.tabs.link
-    - navigation.instant
-    - navigation.instant.prefetch
-    - navigation.instant.progress
+    - navigation.footer
     # - navigation.indexes
+    # - navigation.instant
+    # - navigation.instant.prefetch
+    # - navigation.instant.progress
     - navigation.prune
     - navigation.sections
     - navigation.top
@@ -60,6 +61,7 @@ markdown_extensions:
         kwds:
           case: lower
   - pymdownx.caret
+  - pymdownx.critic
   - pymdownx.details
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
@@ -130,6 +132,40 @@ nav:
   - 首页: index.md
   - 博客:
     - blog/index.md
+  - 资料:
+    - 2026 年学代会:
+      - material/congress_2026/index.md
+      - 全部提案:
+        - material/congress_2026/all_proposal/proposal-1.md
+        - material/congress_2026/all_proposal/proposal-2.md
+        - material/congress_2026/all_proposal/proposal-3.md
+        - material/congress_2026/all_proposal/proposal-4.md
+        - material/congress_2026/all_proposal/proposal-5.md
+        - material/congress_2026/all_proposal/proposal-6.md
+        - material/congress_2026/all_proposal/proposal-7.md
+        - material/congress_2026/all_proposal/proposal-8.md
+        - material/congress_2026/all_proposal/proposal-9.md
+        - material/congress_2026/all_proposal/proposal-10.md
+        - material/congress_2026/all_proposal/proposal-11.md
+        - material/congress_2026/all_proposal/proposal-12.md
+        - material/congress_2026/all_proposal/proposal-13.md
+        - material/congress_2026/all_proposal/proposal-14.md
+        - material/congress_2026/all_proposal/proposal-15.md
+        - material/congress_2026/all_proposal/proposal-16.md
+        - material/congress_2026/all_proposal/proposal-17.md
+        - material/congress_2026/all_proposal/proposal-18.md
+        - material/congress_2026/all_proposal/proposal-19.md
+        - material/congress_2026/all_proposal/proposal-20.md
+        - material/congress_2026/all_proposal/proposal-21.md
+        - material/congress_2026/all_proposal/proposal-22.md
+        - material/congress_2026/all_proposal/proposal-23.md
+        - material/congress_2026/all_proposal/proposal-24.md
+        - material/congress_2026/all_proposal/proposal-25.md
+        - material/congress_2026/all_proposal/proposal-26.md
+        - material/congress_2026/all_proposal/proposal-27.md
   - 模板:
-    - 博客元数据: template/blog-metadata.md
-    - 警告框: template/admonitions.md
+    - template/blog-metadata.md
+    - template/admonitions.md
+
+extra_css:
+    - stylesheets/heimu.css
