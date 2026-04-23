@@ -22,8 +22,6 @@ theme:
     - search.share
     - search.suggest
     - toc.follow
-  font:
-    code: Fira Code
   language: zh
   palette:
     - media: "(prefers-color-scheme)"
