@@ -62,6 +62,7 @@
 | 粉月水晶之心 | 1:30 |
 
 ![财富谷地图](https://minecraft.wiki/images/Valley_of_Wealth_Map.png){ loading=lazy }
+
 /// caption
 财富谷地图
 ///
@@ -113,6 +114,7 @@
 | 粉月水晶之心 | 2:35 |
 
 ![森卡莉丝神庙地图](https://minecraft.wiki/images/Temple_of_Semkaris_Map.png){ loading=lazy }
+
 /// caption
 森卡莉丝神庙地图
 ///
@@ -166,6 +168,7 @@
 | 粉月水晶之心 | 2:40 |
 
 ![破碎之城地图](https://minecraft.wiki/images/Sundered_City_Map.png){ loading=lazy }
+
 /// caption
 破碎之城地图
 ///
@@ -219,6 +222,7 @@
 | 粉月水晶之心 | 3:20 |
 
 ![王之宫殿地图](https://minecraft.wiki/images/Palace_of_Kings_Map.png){ loading=lazy }
+
 /// caption
 王之宫殿地图
 ///
@@ -272,6 +276,7 @@
 | 粉月水晶之心 | 2:40 |
 
 ![Dread Pass 地图](https://minecraft.wiki/images/Dread_Pass_Map.png){ loading=lazy }
+
 /// caption
 Dread Pass 地图
 ///
