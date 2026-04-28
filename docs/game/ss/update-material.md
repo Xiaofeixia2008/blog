@@ -1,4 +1,4 @@
-# 材料升级清单
+# 升级材料清单
 
 /// admonition | 提示
     type: info
@@ -8,7 +8,7 @@
 
 ## 武器 / Weapons
 
-| Tier     | Scrip   | Lv.1 | Lv.2 | Lv.3 | Lv.4 | Lv.5 | Module     |
+| Tier     | Scrip   | T1![锭][Ingot] | T2![锭][Ingot] | T3![锭][Ingot] | T4![锭][Ingot] | T5![锭][Ingot] | Module     |
 | -------- | ------- | ---- | ---- | ---- | ---- | ---- | ---------- |
 | 2 \~ 5   | 200     | 20   |      |      |      |      |            |
 | 6 \~ 10  | 1,000   | 30   | 10   |      |      |      |            |
@@ -24,6 +24,8 @@
 | 41 \~ 45 | 150,000 |      |      | 100  | 70   | 50   |            |
 | 46 \~ 49 | 200,000 |      |      |      | 100  | 70   |            |
 | 50       | 200,000 |      |      |      | 100  | 70   | Soulforged |
+
+[Ingot]: https://minecraft.wiki/images/Invicon_Iron_Ingot.png
 
 ## 护甲 / Armor
 
