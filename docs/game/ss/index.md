@@ -2,7 +2,7 @@
 title: 首页
 ---
 
-# 赤石信息合集:yum:
+# ss 赤石信息合集:yum:
 
 /// note | 提示
 该页面正在编写中。
@@ -11,5 +11,6 @@ title: 首页
 我将给出 ss 中有用的一些信息，让你能够获得更好的赤石体验:yum:
 
 - [各地牢信息](./dungeon)
-- [升级材料清单](./update)
+- [合成材料清单](./update-material)
+- [升级材料清单](./update-material)
 - [商人交易项目](./trader)
