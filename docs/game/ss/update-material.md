@@ -8,7 +8,7 @@
 
 ## 武器 / Weapons
 
-| Tier     | Scrip   | T1![锭][Ingot] | T2![锭][Ingot] | T3![锭][Ingot] | T4![锭][Ingot] | T5![锭][Ingot] | Module     |
+| Tier | Scrip | T1![磁石锭][T1-Ingot] | T2![永恒铜锭][T2-Ingot] | T3![钢织合金锭][T3-Ingot] | T4![金刚合金锭][T4-Ingot] | T5![虚空合金锭][T5-Ingot] | Module |
 | -------- | ------- | ---- | ---- | ---- | ---- | ---- | ---------- |
 | 2 \~ 5   | 200     | 20   |      |      |      |      |            |
 | 6 \~ 10  | 1,000   | 30   | 10   |      |      |      |            |
@@ -25,7 +25,11 @@
 | 46 \~ 49 | 200,000 |      |      |      | 100  | 70   |            |
 | 50       | 200,000 |      |      |      | 100  | 70   | Soulforged |
 
-[Ingot]: https://minecraft.wiki/images/Invicon_Iron_Ingot.png
+[T1-Ingot]: https://minecraft.wiki/images/ItemSprite_lodestone-ingot.png
+[T2-Ingot]: https://minecraft.wiki/images/ItemSprite_everbrass-ingot.png
+[T3-Ingot]: https://minecraft.wiki/images/ItemSprite_steelweave-ingot.png
+[T4-Ingot]: https://minecraft.wiki/images/ItemSprite_adamantine-ingot.png
+[T5-Ingot]: https://minecraft.wiki/images/ItemSprite_nihil-ingot.png
 
 ## 护甲 / Armor
 

@@ -12,7 +12,7 @@ title: 首页
 
 - [各地牢信息](./dungeon)
 - [物品名称对照表](./item)
-- [合成材料清单](./update-material)
+- [合成材料清单](./forge-material)
 - [升级材料清单](./update-material)
 - [商人交易项目](./trader)
 
