@@ -1,5 +1,7 @@
 # 合成 / 融合材料清单
 
+[回到首页](./index)
+
 /// admonition | 提示
     type: info
 
