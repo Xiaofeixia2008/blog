@@ -19,6 +19,7 @@
 ## 金属锭 / Ingots
 
 | 中文名称 | 英文名称 | 等级 | 图标 |
+| --- | --- | --- | --- |
 | 磁石锭 | Lodestone Ingot | 1 级 | ![Ingot T1][Ingot-T1]
 | 永恒铜锭 | Everbrass Ingot | 2 级 | ![Ingot T2][Ingot-T2]
 | 钢织合金锭 | Steelweave Ingot | 3 级 | ![Ingot T3][Ingot-T3]
@@ -34,6 +35,7 @@
 ## 丝线 / Thread
 
 | 中文名称 | 英文名称 | 等级 | 图标 |
+| --- | --- | --- | --- |
 | 回火丝线 | Tempering Thread | 1 级 | ![Thread T1][Thread-T1]
 | 宝石丝线 | Jeweled Thread | 2 级 | ![Thread T2][Thread-T2]
 | 月银丝线 | Moonsilver Thread | 3 级 | ![Thread T3][Thread-T3]
@@ -49,6 +51,7 @@
 ## 宝石 / Gemstones
 
 | 中文名称 | 英文名称 | 等级 | 图标 |
+| --- | --- | --- | --- |
 | 空心碎片宝石 | Hollowshard Gemstone | 1 级 | ![Gemstone T1][Gemstone-T1]
 | 琥珀粉末宝石 | Amberdust Gemstone | 2 级 | ![Gemstone T2][Gemstone-T2]
 | 明亮露珠宝石 | Brightdew Gemstone | 3 级 | ![Gemstone T3][Gemstone-T3]
@@ -64,6 +67,7 @@
 ## 墨水 / Ink
 
 | 中文名称 | 英文名称 | 等级 | 图标 |
+| --- | --- | --- | --- |
 | 浸制之墨 | Infused Ink | 1 级 | ![Ink T1][Ink-T1]
 | 深色阴影之墨 | Deepshade Ink | 2 级 | ![Ink T2][Ink-T2]
 | 深海之墨 | Abyssal Ink | 3 级 | ![Ink T3][Ink-T3]
@@ -79,6 +83,7 @@
 ## 套件碎片 / Kit Scraps
 
 | 中文名称 | 英文名称 | 等级 | 图标 |
+| --- | --- | --- | --- |
 | 风化套件碎片 | Weathered Kit Scrap | 1 级 | ![Kit Scrap T1][Kit-T1]
 | 坚固套件碎片 | Sturdy Kit Scrap | 2 级 | ![Kit Scrap T2][Kit-T2]
 | 精炼套件碎片 | Refined Kit Scrap | 3 级 | ![Kit Scrap T3][Kit-T3]
@@ -94,6 +99,7 @@
 ## 升级模块 / Upgrade Modules
 
 | 中文名称 | 英文名称 | 等级 | 图标 |
+| --- | --- | --- | --- |
 | *（未使用）~~风化升级模块~~* | *(Unused) ~~Weathered Upgrade Module~~* | 1 级 | ![Upgrade Module T1][Module-T1]
 | 坚固升级模块 | Sturdy Upgrade Module | 2 级 | ![Upgrade Module T2][Module-T2]
 | 精炼升级模块 | Refined Upgrade Module | 3 级 | ![Upgrade Module T3][Module-T3]
@@ -109,6 +115,7 @@
 ## 粉尘 / Dust
 
 | 中文名称 | 英文名称 | 图标 |
+| --- | --- | --- |
 | 武器粉尘 | Weapon Dust | ![Weapon Dust][Dust-Weapon]
 | 盔甲粉尘 | Armor Dust | ![Armor Dust][Dust-Armor]
 | 饰品粉尘 | Accessory Dust | ![Accessory Dust][Dust-Accessory]
