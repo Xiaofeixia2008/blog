@@ -104,13 +104,13 @@
 | 坚固升级模块 | Sturdy Upgrade Module | 2 级 | ![Upgrade Module T2][Module-T2]
 | 精炼升级模块 | Refined Upgrade Module | 3 级 | ![Upgrade Module T3][Module-T3]
 | 附魔升级模块 | Enchanted Upgrade Module | 4 级 | ![Upgrade Module T4][Module-T4]
-| 灵魂锻造升级模块 | Soulforged Upgrade Module | 5 级 | ![Upgrade Module T5][Module-T5]
+| 灵魂锻造升级模块 | Soulforge Upgrade Module | 5 级 | ![Upgrade Module T5][Module-T5]
 
 [Module-T1]: https://minecraft.wiki/images/ItemSprite_weathered-upgrade-module.png
 [Module-T2]: https://minecraft.wiki/images/ItemSprite_sturdy-upgrade-module.png
 [Module-T3]: https://minecraft.wiki/images/ItemSprite_refined-upgrade-module.png
 [Module-T4]: https://minecraft.wiki/images/ItemSprite_enchanted-upgrade-module.png
-[Module-T5]: https://minecraft.wiki/images/ItemSprite_soulforged-upgrade-module.png
+[Module-T5]: https://minecraft.wiki/images/ItemSprite_soulforge-upgrade-module.png
 
 ## 粉尘 / Dust
 

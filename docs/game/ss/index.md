@@ -11,6 +11,7 @@
 - [合成材料清单](./forge-material)
 - [升级材料清单](./update-material)
 - [商人交易项目](./trader)
+- [更新 / 关服记录](./history)
 
 *你知道吗：*我目前武器的伤害如下：
 
