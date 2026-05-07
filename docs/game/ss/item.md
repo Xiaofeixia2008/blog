@@ -10,12 +10,12 @@
 
 | 等级数值 | 等级表示（中文） | 等级表示（英文） | 颜色 |
 | --- | --- | --- | --- |
-| 1 级 | 普通 | Common | `#d1d1d1`{ color: #d1d1d1; } |
-| 2 级 | 罕见 | Uncommon | `#5ec417`{ color: #5ec417; } |
-| 3 级 | 稀有 | Rare | `#199cfc`{ color: #199cfc; } |
-| 4 级 | 史诗 | Epic | `#ff73f0`{ color: #ff73f0; } |
-| 5 级 | 传奇 | Legendary | `#fadb00`{ color: #fadb00; } |
-| 6 级 | N/A | N/A | `#ff596b`{ color: #ff596b; } |
+| 1 级 | 普通 | Common | `#d1d1d1`{ style='color: #d1d1d1;' } |
+| 2 级 | 罕见 | Uncommon | `#5ec417`{ style='color: #5ec417;' } |
+| 3 级 | 稀有 | Rare | `#199cfc`{ style='color: #199cfc;' } |
+| 4 级 | 史诗 | Epic | `#ff73f0`{ style='color: #ff73f0;' } |
+| 5 级 | 传奇 | Legendary | `#fadb00`{ style='color: #fadb00;' } |
+| 6 级 | N/A | N/A | `#ff596b`{ style='color: #ff596b;' } |
 
 ## 金属锭 / Ingots
 
