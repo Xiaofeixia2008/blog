@@ -6,7 +6,7 @@
 
 我将给出 ss 中有用的一些信息，让你能够获得更好的赤石体验:yum:
 
-- [各地牢信息](./dungeon)
+- [各地牢信息](./dungeon/index)
 - [物品名称对照表](./item)
 - [合成材料清单](./forge-material)
 - [升级材料清单](./update-material)
