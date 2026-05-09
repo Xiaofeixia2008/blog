@@ -127,9 +127,7 @@
 [Dust-Accessory]: https://minecraft.wiki/images/ItemSprite_accessory-dust.png
 [Dust-Rune]: https://minecraft.wiki/images/ItemSprite_rune-dust.png
 
-## 碎片
-
-### 武器碎片
+## 武器碎片
 
 ### 普通
 
@@ -151,7 +149,7 @@
 [Sword]: https://minecraft.wiki/images/ItemSprite_sword-of-gusts-fragment.png
 [Axe]: https://minecraft.wiki/images/ItemSprite_thunder-battle-axe-fragment.png
 
-### 神器
+### 神器（碎片、部件）
 
 | 中文名称 | 英文名称 | 图标 |
 | --- | --- | --- |
@@ -200,3 +198,131 @@
 [Sacred-Wings-Blade]: https://minecraft.wiki/images/ItemSprite_sacred-wings%27-blade.png
 [Sacred-Wings-Tip]: https://minecraft.wiki/images/ItemSprite_sacred-wings%27-tip.png
 [Sacred-Wings-Pole]: https://minecraft.wiki/images/ItemSprite_sacred-wings%27-pole.png
+
+## 武器碎片
+
+### 普通
+
+| 中文名称 | 英文名称 | 图标 |
+| --- | --- | --- |
+| 士兵盔甲碎片 | Soldier's Armor Fragment | ![Soldier's Armor Fragment][Soldiers-Armor] |
+| 拆弹工作服碎片 | Demolition Duds Fragment | ![Demolition Duds Fragment][Demolition-Duds] |
+| 探险家服装碎片 | Explorer's Attire Fragment | ![Explorer's Attire Fragment][Explorers-Attire] |
+| 巡林客服碎片 | Ranger's Rags Fragment | ![Ranger's Rags Fragment][Rangers-Rags] |
+| 学者礼服碎片 | Scholar's Robes Fragment | ![Scholar's Robes Fragment][Scholars-Robes] |
+
+[Soldiers-Armor]: https://minecraft.wiki/images/ItemSprite_soldier%27s-armor-fragment.png
+[Demolition-Duds]: https://minecraft.wiki/images/ItemSprite_demolition-dubs-fragment.png
+[Explorers-Attire]: https://minecraft.wiki/images/ItemSprite_explorer%27s-attire-fragment.png
+[Rangers-Rags]: https://minecraft.wiki/images/ItemSprite_ranger%27s-rags-fragment.png
+[Scholars-Robes]: https://minecraft.wiki/images/ItemSprite_scholar%27s-robes-fragment.png
+
+### 神器
+
+| 中文名称 | 英文名称 | 图标 |
+| --- | --- | --- |
+| 指挥官盔甲碎片 | Commander's Armor Fragment | ![Commander's Armor Fragment][Commanders-Armor] |
+| 火焰血管盔甲碎片 | Flamevein Armor Fragment | ![Flamevein Armor Fragment][Flamevein-Armor] |
+| 圣殿骑士盔甲碎片 | Templar's Armor Fragment | ![Templar's Armor Fragment][Templars-Armor] |
+| 循声守卫盔甲碎片 | Wardens Wrapping Armor Fragment | ![Wardens Wrapping Armor Fragment][Wardens-Wrapping-Armor] |
+
+[Commanders-Armor]: https://minecraft.wiki/images/ItemSprite_commanders-armor-fragment.png
+[Flamevein-Armor]: https://minecraft.wiki/images/ItemSprite_flamevein-armor-fragment.png
+[Templars-Armor]: https://minecraft.wiki/images/ItemSprite_templar%27s-armor-fragment.png
+[Wardens-Wrapping-Armor]: https://minecraft.wiki/images/ItemSprite_wardens-wrapping-armor-fragment.png
+
+## 符文精华
+
+| 中文名称 | 英文名称 | 褪色 | 强大 | 汹涌 |
+| --- | --- | --- | --- | --- |
+| 活力 | Vitality | ![Vitality Faded][Vitality-Faded] | [Vitality Strong][Vitality-Strong] | [Vitality Surging][Vitality-Surging] |
+| 智慧 | Wisdom | ![Wisdom Faded][Wisdom-Faded] | [Wisdom Strong][Wisdom-Strong] | [Wisdom Surging][Wisdom-Surging] |
+| 康复 | Recovery | ![Recovery Faded][Recovery-Faded] | [Recovery Strong][Recovery-Strong] | [Recovery Surging][Recovery-Surging] |
+| 顿悟 / 启蒙 | Enlightenment | ![Enlightenment Faded][Enlightenment-Faded] | [Enlightenment Strong][Enlightenment-Strong] | [Enlightenment Surging][Enlightenment-Surging] |
+| 精准 / 精确 | Precision | ![Precision Faded][Precision-Faded] | [Precision Strong][Precision-Strong] | [Precision Surging][Precision-Surging] |
+| 残酷精准 / 野蛮精确 | Brutal Precision | ![Brutal Precision Faded][Brutal-Precision-Faded] | [Brutal Precision Strong][Brutal-Precision-Strong] | [Brutal Precision Surging][Brutal-Precision-Surging] |
+| 强力 / 敏锐力 | Keen Force | ![Keen Force Faded][Keen-Force-Faded] | [Keen Force Strong][Keen-Force-Strong] | [Keen Force Surging][Keen-Force-Surging] |
+| 蛮力 | Brutal Force | ![Brutal Force Faded][Brutal-Force-Faded] | [Brutal Force Strong][Brutal-Force-Strong] | [Brutal Force Surging][Brutal-Force-Surging] |
+| 力量 / 威力 | Might | ![Might Faded][Might-Faded] | [Might Strong][Might-Strong] | [Might Surging][Might-Surging] |
+| 智力 | Intellect | ![Intellect Faded][Intellect-Faded] | [Intellect Strong][Intellect-Strong] | [Intellect Surging][Intellect-Surging] |
+| 幽灵獠牙 / 幽灵尖牙 | Ghost Fang | ![Ghost Fang Faded][Ghost-Fang-Faded] | [Ghost Fang Strong][Ghost-Fang-Strong] | [Ghost Fang Surging][Ghost-Fang-Surging] |
+| 侍僧 | The Acolyte | ![The Acolyte Faded][The-Acolyte-Faded] | [The Acolyte Strong][The-Acolyte-Strong] | [The Acolyte Surging][The-Acolyte-Surging] |
+| 岩浆 | Magma | ![Magma Faded][Magma-Faded] | [Magma Strong][Magma-Strong] | [Magma Surging][Magma-Surging] |
+| 冰霜 / 冰 | Ice | ![Ice Faded][Ice-Faded] | [Ice Strong][Ice-Strong] | [Ice Surging][Ice-Surging] |
+| 荒野 | Wilderness | ![Wilderness Faded][Wilderness-Faded] | [Wilderness Strong][Wilderness-Strong] | [Wilderness Surging][Wilderness-Surging] |
+| 元素 | Elements | ![Elements Faded][Elements-Faded] | [Elements Strong][Elements-Strong] | [Elements Surging][Elements-Surging] |
+| 风暴 | Storms | ![Storms Faded][Storms-Faded] | [Storms Strong][Storms-Strong] | [Storms Surging][Storms-Surging] |
+
+[Vitality-Faded]: https://minecraft.wiki/images/ItemSprite_faded-rune-essence-of-vitality.png
+[Vitality-Strong]: https://minecraft.wiki/images/ItemSprite_strong-rune-essence-of-vitality.png
+[Vitality-Surging]: https://minecraft.wiki/images/ItemSprite_surging-rune-essence-of-vitality.png
+[Wisdom-Faded]: https://minecraft.wiki/images/ItemSprite_faded-rune-essence-of-wisdom.png
+[Wisdom-Strong]: https://minecraft.wiki/images/ItemSprite_strong-rune-essence-of-wisdom.png
+[Wisdom-Surging]: https://minecraft.wiki/images/ItemSprite_surging-rune-essence-of-wisdom.png
+[Recovery-Faded]: https://minecraft.wiki/images/ItemSprite_faded-rune-essence-of-recovery.png
+[Recovery-Strong]: https://minecraft.wiki/images/ItemSprite_strong-rune-essence-of-recovery.png
+[Recovery-Surging]: https://minecraft.wiki/images/ItemSprite_surging-rune-essence-of-recovery.png
+[Enlightenment-Faded]: https://minecraft.wiki/images/ItemSprite_faded-rune-essence-of-enlightenment.png
+[Enlightenment-Strong]: https://minecraft.wiki/images/ItemSprite_strong-rune-essence-of-enlightenment.png
+[Enlightenment-Surging]: https://minecraft.wiki/images/ItemSprite_surging-rune-essence-of-enlightenment.png
+[Precision-Faded]: https://minecraft.wiki/images/ItemSprite_faded-rune-essence-of-precision.png
+[Precision-Strong]: https://minecraft.wiki/images/ItemSprite_strong-rune-essence-of-precision.png
+[Precision-Surging]: https://minecraft.wiki/images/ItemSprite_surging-rune-essence-of-precision.png
+[Brutal-Precision-Faded]: https://minecraft.wiki/images/ItemSprite_faded-rune-essence-of-brutal-precision.png
+[Brutal-Precision-Strong]: https://minecraft.wiki/images/ItemSprite_strong-rune-essence-of-brutal-precision.png
+[Brutal-Precision-Surging]: https://minecraft.wiki/images/ItemSprite_surging-rune-essence-of-brutal-precision.png
+[Keen-Force-Faded]: https://minecraft.wiki/images/ItemSprite_faded-rune-essence-of-keen-force.png
+[Keen-Force-Strong]: https://minecraft.wiki/images/ItemSprite_strong-rune-essence-of-keen-force.png
+[Keen-Force-Surging]: https://minecraft.wiki/images/ItemSprite_surging-rune-essence-of-keen-force.png
+[Brutal-Force-Faded]: https://minecraft.wiki/images/ItemSprite_faded-rune-essence-of-brutal-force.png
+[Brutal-Force-Strong]: https://minecraft.wiki/images/ItemSprite_strong-rune-essence-of-brutal-force.png
+[Brutal-Force-Surging]: https://minecraft.wiki/images/ItemSprite_surging-rune-essence-of-brutal-force.png
+[Might-Faded]: https://minecraft.wiki/images/ItemSprite_faded-rune-essence-of-might.png
+[Might-Strong]: https://minecraft.wiki/images/ItemSprite_strong-rune-essence-of-might.png
+[Might-Surging]: https://minecraft.wiki/images/ItemSprite_surging-rune-essence-of-might.png
+[Intellect-Faded]: https://minecraft.wiki/images/ItemSprite_faded-rune-essence-of-intellect.png
+[Intellect-Strong]: https://minecraft.wiki/images/ItemSprite_strong-rune-essence-of-intellect.png
+[Intellect-Surging]: https://minecraft.wiki/images/ItemSprite_surging-rune-essence-of-intellect.png
+[Ghost-Fang-Faded]: https://minecraft.wiki/images/ItemSprite_faded-rune-essence-of-ghost-fang.png
+[Ghost-Fang-Strong]: https://minecraft.wiki/images/ItemSprite_strong-rune-essence-of-ghost-fang.png
+[Ghost-Fang-Surging]: https://minecraft.wiki/images/ItemSprite_surging-rune-essence-of-ghost-fang.png
+[The-Acolyte-Faded]: https://minecraft.wiki/images/ItemSprite_faded-rune-essence-of-the-acolyte.png
+[The-Acolyte-Strong]: https://minecraft.wiki/images/ItemSprite_strong-rune-essence-of-the-acolyte.png
+[The-Acolyte-Surging]: https://minecraft.wiki/images/ItemSprite_surging-rune-essence-of-the-acolyte.png
+[Magma-Faded]: https://minecraft.wiki/images/ItemSprite_faded-rune-essence-of-magma.png
+[Magma-Strong]: https://minecraft.wiki/images/ItemSprite_strong-rune-essence-of-magma.png
+[Magma-Surging]: https://minecraft.wiki/images/ItemSprite_surging-rune-essence-of-magma.png
+[Ice-Faded]: https://minecraft.wiki/images/ItemSprite_faded-rune-essence-of-ice.png
+[Ice-Strong]: https://minecraft.wiki/images/ItemSprite_strong-rune-essence-of-ice.png
+[Ice-Surging]: https://minecraft.wiki/images/ItemSprite_surging-rune-essence-of-ice.png
+[Wilderness-Faded]: https://minecraft.wiki/images/ItemSprite_faded-rune-essence-of-wilderness.png
+[Wilderness-Strong]: https://minecraft.wiki/images/ItemSprite_strong-rune-essence-of-wilderness.png
+[Wilderness-Surging]: https://minecraft.wiki/images/ItemSprite_surging-rune-essence-of-wilderness.png
+[Elements-Faded]: https://minecraft.wiki/images/ItemSprite_faded-rune-essence-of-elements.png
+[Elements-Strong]: https://minecraft.wiki/images/ItemSprite_strong-rune-essence-of-elements.png
+[Elements-Surging]: https://minecraft.wiki/images/ItemSprite_surging-rune-essence-of-elements.png
+[Storms-Faded]: https://minecraft.wiki/images/ItemSprite_faded-rune-essence-of-storms.png
+[Storms-Strong]: https://minecraft.wiki/images/ItemSprite_strong-rune-essence-of-storms.png
+[Storms-Surging]: https://minecraft.wiki/images/ItemSprite_surging-rune-essence-of-storms.png
+
+## 配件碎片
+
+### 普通
+
+| 中文名称 | 英文名称 | 图标 |
+| --- | --- | --- |
+|  | Cracked Citrine Ring Fragment | ![Cracked Citrine Ring Fragment][Cracked-Citrine-Ring] |
+|  | Chipped Onyx Amulet Fragment | ![Chipped Onyx Amulet Fragment][Chipped-Onyx-Amulet] |
+|  | Chipped Rhinestone Wristlet Fragment | ![Chipped Rhinestone Wristlet Fragment][Chipped-Rhinestone-Wristlet] |
+|  | Chipped Ruby Locket Fragment | ![Chipped Ruby Locket Fragment][Chipped-Ruby-Locket] |
+|  | Chipped Sapphire Necklace Fragment | ![Chipped Sapphire Necklace Fragment][Chipped-Sapphire-Necklace] |
+|  | Amethyst Charm Fragment | ![Amethyst Charm Fragment][Amethyst-Charm] |
+|  | Citrine Ring Fragment | ![Citrine Ring Fragment][Citrine-Ring] |
+|  | Onyx Amulet Fragment | ![Onyx Amulet Fragment][Onyx-Amulet] |
+|  | Opal Ring Fragment | ![Opal Ring Fragment][Opal-Ring] |
+|  | Rhinestone Wristlet Fragment | ![Rhinestone Wristlet Fragment][Rhinestone-Wristlet] |
+|  | Ruby Locket Fragment | ![Ruby Locket Fragment][Ruby-Locket] |
+|  | Sharpsteel Shard Fragment | ![Sharpsteel Shard Fragment][Sharpsteel-Shard] |
+|  | Sunstone Pendant Fragment | ![Sunstone Pendant Fragment][Sunstone-Pendant] |
+
+### 神器

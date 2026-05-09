@@ -25,7 +25,7 @@
 | 40       | 75,000  |      |      | 70   | 50   | 30   | Enchanted![附魔升级模块][Enchanted]  |
 | 41 \~ 45 | 150,000 |      |      | 100  | 70   | 50   |            |
 | 46 \~ 49 | 200,000 |      |      |      | 100  | 70   |            |
-| 50       | 200,000 |      |      |      | 100  | 70   | Soulforged![灵魂锻造升级模块][Soulforged] |
+| 50       | 200,000 |      |      |      | 100  | 70   | Soulforged![灵魂锻造升级模块][Soulforge] |
 
 [Ingot-T1]: https://minecraft.wiki/images/ItemSprite_lodestone-ingot.png
 [Ingot-T2]: https://minecraft.wiki/images/ItemSprite_everbrass-ingot.png
@@ -35,7 +35,7 @@
 
 ## 护甲 / Armor
 
-与饰品相同。
+与配件相同。
 
 | Tier     | Scrip![代币][Scrip]   | T1![回火丝线][Thread-T1] | T2![宝石丝线][Thread-T2] | T3![月银丝线][Thread-T3] | T4![磁铁矿丝线][Thread-T4] | T5![被诅咒的丝线][Thread-T5] | Module     |
 | -------- | ------- | ---- | ---- | ---- | ---- | ---- | ---------- |
@@ -47,7 +47,7 @@
 | 16 \~ 19 | 25,000  |      | 70   | 50   | 20   |      |            |
 | 20       | 25,000  |      | 70   | 50   | 20   |      | Enchanted![附魔升级模块][Enchanted]  |
 | 21 \~ 24 | 150,000 |      |      | 100  | 70   | 30   |            |
-| 25       | 150,000 |      |      | 100  | 70   | 50   | Soulforged![灵魂锻造升级模块][Soulforged] |
+| 25       | 150,000 |      |      | 100  | 70   | 50   | Soulforged![灵魂锻造升级模块][Soulforge] |
 
 [Thread-T1]: https://minecraft.wiki/images/ItemSprite_tempering-thread.png
 [Thread-T2]: https://minecraft.wiki/images/ItemSprite_jeweled-thread.png
@@ -55,7 +55,7 @@
 [Thread-T4]: https://minecraft.wiki/images/ItemSprite_magnetite-thread.png
 [Thread-T5]: https://minecraft.wiki/images/ItemSprite_curseborne-thread.png
 
-## 饰品 / Accessories
+## 配件 / Accessories
 
 与护甲相同。
 
@@ -69,7 +69,7 @@
 | 16 \~ 19 | 25,000 | | 70 | 50 | 20 | | |
 | 20 | 25,000 | | 70 | 50 | 20 | | Enchanted![附魔升级模块][Enchanted] |
 | 21 \~ 24 | 150,000 | | | 100 | 70 | 30 | |
-| 25 | 150,000 | | | 100 | 70 | 50 | Soulforged![灵魂锻造升级模块][Soulforged] |
+| 25 | 150,000 | | | 100 | 70 | 50 | Soulforged![灵魂锻造升级模块][Soulforge] |
 
 [Gemstone-T1]: https://minecraft.wiki/images/ItemSprite_hollowshard.png
 [Gemstone-T2]: https://minecraft.wiki/images/ItemSprite_amberdust.png
@@ -105,7 +105,7 @@
 | 16 \~ 19 | 25,000 | | 50 | 30 | 10 | 5 | 5 | |
 | 20 | 25,000 | | | 30 | 15 | 5 | 5 | Enchanted![附魔升级模块][Enchanted] |
 | 21 \~ 24 | 25,000 | | 70 | 50 | 30 | 10 | 7 | |
-| 25 | 25,000 | | | 50 | 35 | 10 | 7 | Soulforged![灵魂锻造升级模块][Soulforged] |
+| 25 | 25,000 | | | 50 | 35 | 10 | 7 | Soulforged![灵魂锻造升级模块][Soulforge] |
 
 ### 汹涌 / Surging
 
@@ -117,9 +117,9 @@
 | 11 \~ 14 | 25,000 | | 50 | 30 | 10 | 5 | 3 | |
 | 15 | 25,000 | | | 30 | 15 | 5 | 3 | Enchanted![附魔升级模块][Enchanted] |
 | 16 \~ 19 | 50,000 | | ? | 50 | 35 | 10 | 5 | |
-| 20 | 50,000 | | | 50 | 35 | 10 | 5 | Soulforged![灵魂锻造升级模块][Soulforged] |
+| 20 | 50,000 | | | 50 | 35 | 10 | 5 | Soulforged![灵魂锻造升级模块][Soulforge] |
 | 21 \~ 24 | 100,000 | | 100 | 70 | 50 | 30 | 7 | |
-| 25 | 100,000 | | | 80 | 55 | 30 | 7 | Soulforged![灵魂锻造升级模块][Soulforged] |
+| 25 | 100,000 | | | 80 | 55 | 30 | 7 | Soulforged![灵魂锻造升级模块][Soulforge] |
 
 [Ink-T1]: https://minecraft.wiki/images/ItemSprite_infused-ink.png
 [Ink-T2]: https://minecraft.wiki/images/ItemSprite_deepshade-ink.png
@@ -131,4 +131,4 @@
 [Sturdy]: https://minecraft.wiki/images/ItemSprite_sturdy-upgrade-module.png
 [Refined]: https://minecraft.wiki/images/ItemSprite_refined-upgrade-module.png
 [Enchanted]: https://minecraft.wiki/images/ItemSprite_enchanted-upgrade-module.png
-[Soulforged]: https://minecraft.wiki/images/ItemSprite_soulforged-upgrade-module.png
+[Soulforge]: https://minecraft.wiki/images/ItemSprite_soulforge-upgrade-module.png
