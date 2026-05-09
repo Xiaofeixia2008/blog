@@ -2,10 +2,6 @@
 
 [回到首页](./index)
 
-/// note | 提示
-该页面正在编写中。
-///
-
 ## 品质对照表
 
 | 品质等级数值 | 等品质示（中文） | 品质表示（英文） | 颜色 |
@@ -235,23 +231,23 @@
 
 | 中文名称 | 英文名称 | 褪色 | 强大 | 汹涌 |
 | --- | --- | --- | --- | --- |
-| 活力 | Vitality | ![Vitality Faded][Vitality-Faded] | [Vitality Strong][Vitality-Strong] | [Vitality Surging][Vitality-Surging] |
-| 智慧 | Wisdom | ![Wisdom Faded][Wisdom-Faded] | [Wisdom Strong][Wisdom-Strong] | [Wisdom Surging][Wisdom-Surging] |
-| 康复 | Recovery | ![Recovery Faded][Recovery-Faded] | [Recovery Strong][Recovery-Strong] | [Recovery Surging][Recovery-Surging] |
-| 顿悟 / 启蒙 | Enlightenment | ![Enlightenment Faded][Enlightenment-Faded] | [Enlightenment Strong][Enlightenment-Strong] | [Enlightenment Surging][Enlightenment-Surging] |
-| 精准 / 精确 | Precision | ![Precision Faded][Precision-Faded] | [Precision Strong][Precision-Strong] | [Precision Surging][Precision-Surging] |
-| 残酷精准 / 野蛮精确 | Brutal Precision | ![Brutal Precision Faded][Brutal-Precision-Faded] | [Brutal Precision Strong][Brutal-Precision-Strong] | [Brutal Precision Surging][Brutal-Precision-Surging] |
-| 强力 / 敏锐力 | Keen Force | ![Keen Force Faded][Keen-Force-Faded] | [Keen Force Strong][Keen-Force-Strong] | [Keen Force Surging][Keen-Force-Surging] |
-| 蛮力 | Brutal Force | ![Brutal Force Faded][Brutal-Force-Faded] | [Brutal Force Strong][Brutal-Force-Strong] | [Brutal Force Surging][Brutal-Force-Surging] |
-| 力量 / 威力 | Might | ![Might Faded][Might-Faded] | [Might Strong][Might-Strong] | [Might Surging][Might-Surging] |
-| 智力 | Intellect | ![Intellect Faded][Intellect-Faded] | [Intellect Strong][Intellect-Strong] | [Intellect Surging][Intellect-Surging] |
-| 幽灵獠牙 / 幽灵尖牙 | Ghost Fang | ![Ghost Fang Faded][Ghost-Fang-Faded] | [Ghost Fang Strong][Ghost-Fang-Strong] | [Ghost Fang Surging][Ghost-Fang-Surging] |
-| 侍僧 | The Acolyte | ![The Acolyte Faded][The-Acolyte-Faded] | [The Acolyte Strong][The-Acolyte-Strong] | [The Acolyte Surging][The-Acolyte-Surging] |
-| 岩浆 | Magma | ![Magma Faded][Magma-Faded] | [Magma Strong][Magma-Strong] | [Magma Surging][Magma-Surging] |
-| 冰霜 / 冰 | Ice | ![Ice Faded][Ice-Faded] | [Ice Strong][Ice-Strong] | [Ice Surging][Ice-Surging] |
-| 荒野 | Wilderness | ![Wilderness Faded][Wilderness-Faded] | [Wilderness Strong][Wilderness-Strong] | [Wilderness Surging][Wilderness-Surging] |
-| 元素 | Elements | ![Elements Faded][Elements-Faded] | [Elements Strong][Elements-Strong] | [Elements Surging][Elements-Surging] |
-| 风暴 | Storms | ![Storms Faded][Storms-Faded] | [Storms Strong][Storms-Strong] | [Storms Surging][Storms-Surging] |
+| 活力 | Vitality | ![Vitality Faded][Vitality-Faded] | ![Vitality Strong][Vitality-Strong] | ![Vitality Surging][Vitality-Surging] |
+| 智慧 | Wisdom | ![Wisdom Faded][Wisdom-Faded] | ![Wisdom Strong][Wisdom-Strong] | ![Wisdom Surging][Wisdom-Surging] |
+| 康复 | Recovery | ![Recovery Faded][Recovery-Faded] | ![Recovery Strong][Recovery-Strong] | ![Recovery Surging][Recovery-Surging] |
+| 顿悟 / 启蒙 | Enlightenment | ![Enlightenment Faded][Enlightenment-Faded] | ![Enlightenment Strong][Enlightenment-Strong] | ![Enlightenment Surging][Enlightenment-Surging] |
+| 精准 / 精确 | Precision | ![Precision Faded][Precision-Faded] | ![Precision Strong][Precision-Strong] | ![Precision Surging][Precision-Surging] |
+| 残酷精准 / 野蛮精确 | Brutal Precision | ![Brutal Precision Faded][Brutal-Precision-Faded] | ![Brutal Precision Strong][Brutal-Precision-Strong] | ![Brutal Precision Surging][Brutal-Precision-Surging] |
+| 强力 / 敏锐力 | Keen Force | ![Keen Force Faded][Keen-Force-Faded] | ![Keen Force Strong][Keen-Force-Strong] | ![Keen Force Surging][Keen-Force-Surging] |
+| 蛮力 | Brutal Force | ![Brutal Force Faded][Brutal-Force-Faded] | ![Brutal Force Strong][Brutal-Force-Strong] | ![Brutal Force Surging][Brutal-Force-Surging] |
+| 力量 / 威力 | Might | ![Might Faded][Might-Faded] | ![Might Strong][Might-Strong] | ![Might Surging][Might-Surging] |
+| 智力 | Intellect | ![Intellect Faded][Intellect-Faded] | ![Intellect Strong][Intellect-Strong] | ![Intellect Surging][Intellect-Surging] |
+| 幽灵獠牙 / 幽灵尖牙 | Ghost Fang | ![Ghost Fang Faded][Ghost-Fang-Faded] | ![Ghost Fang Strong][Ghost-Fang-Strong] | ![Ghost Fang Surging][Ghost-Fang-Surging] |
+| 侍僧 | The Acolyte | ![The Acolyte Faded][The-Acolyte-Faded] | ![The Acolyte Strong][The-Acolyte-Strong] | ![The Acolyte Surging][The-Acolyte-Surging] |
+| 岩浆 | Magma | ![Magma Faded][Magma-Faded] | ![Magma Strong][Magma-Strong] | ![Magma Surging][Magma-Surging] |
+| 冰霜 / 冰 | Ice | ![Ice Faded][Ice-Faded] | ![Ice Strong][Ice-Strong] | ![Ice Surging][Ice-Surging] |
+| 荒野 | Wilderness | ![Wilderness Faded][Wilderness-Faded] | ![Wilderness Strong][Wilderness-Strong] | ![Wilderness Surging][Wilderness-Surging] |
+| 元素 | Elements | ![Elements Faded][Elements-Faded] | ![Elements Strong][Elements-Strong] | ![Elements Surging][Elements-Surging] |
+| 风暴 | Storms | ![Storms Faded][Storms-Faded] | ![Storms Strong][Storms-Strong] | ![Storms Surging][Storms-Surging] |
 
 [Vitality-Faded]: https://minecraft.wiki/images/ItemSprite_faded-rune-essence-of-vitality.png
 [Vitality-Strong]: https://minecraft.wiki/images/ItemSprite_strong-rune-essence-of-vitality.png
@@ -311,18 +307,66 @@
 
 | 中文名称 | 英文名称 | 图标 |
 | --- | --- | --- |
-|  | Cracked Citrine Ring Fragment | ![Cracked Citrine Ring Fragment][Cracked-Citrine-Ring] |
-|  | Chipped Onyx Amulet Fragment | ![Chipped Onyx Amulet Fragment][Chipped-Onyx-Amulet] |
-|  | Chipped Rhinestone Wristlet Fragment | ![Chipped Rhinestone Wristlet Fragment][Chipped-Rhinestone-Wristlet] |
-|  | Chipped Ruby Locket Fragment | ![Chipped Ruby Locket Fragment][Chipped-Ruby-Locket] |
-|  | Chipped Sapphire Necklace Fragment | ![Chipped Sapphire Necklace Fragment][Chipped-Sapphire-Necklace] |
-|  | Amethyst Charm Fragment | ![Amethyst Charm Fragment][Amethyst-Charm] |
-|  | Citrine Ring Fragment | ![Citrine Ring Fragment][Citrine-Ring] |
-|  | Onyx Amulet Fragment | ![Onyx Amulet Fragment][Onyx-Amulet] |
-|  | Opal Ring Fragment | ![Opal Ring Fragment][Opal-Ring] |
-|  | Rhinestone Wristlet Fragment | ![Rhinestone Wristlet Fragment][Rhinestone-Wristlet] |
-|  | Ruby Locket Fragment | ![Ruby Locket Fragment][Ruby-Locket] |
-|  | Sharpsteel Shard Fragment | ![Sharpsteel Shard Fragment][Sharpsteel-Shard] |
-|  | Sunstone Pendant Fragment | ![Sunstone Pendant Fragment][Sunstone-Pendant] |
+| 开裂的黄水晶戒指碎片 | Cracked Citrine Ring Fragment | ![Cracked Citrine Ring Fragment][Cracked-Citrine-Ring] |
+| 碎裂的缟玛瑙护符碎片 | Chipped Onyx Amulet Fragment | ![Chipped Onyx Amulet Fragment][Chipped-Onyx-Amulet] |
+| 碎裂的莱茵石腕套碎片 | Chipped Rhinestone Wristlet Fragment | ![Chipped Rhinestone Wristlet Fragment][Chipped-Rhinestone-Wristlet] |
+| 碎裂的红宝石吊坠碎片 | Chipped Ruby Locket Fragment | ![Chipped Ruby Locket Fragment][Chipped-Ruby-Locket] |
+| 碎裂的蓝宝石项链碎片 | Chipped Sapphire Necklace Fragment | ![Chipped Sapphire Necklace Fragment][Chipped-Sapphire-Necklace] |
+| 紫水晶挂饰碎片 | Amethyst Charm Fragment | ![Amethyst Charm Fragment][Amethyst-Charm] |
+| 黄水晶戒指碎片 | Citrine Ring Fragment | ![Citrine Ring Fragment][Citrine-Ring] |
+| 缟玛瑙护符碎片 | Onyx Amulet Fragment | ![Onyx Amulet Fragment][Onyx-Amulet] |
+| 蛋白石戒指碎片 | Opal Ring Fragment | ![Opal Ring Fragment][Opal-Ring] |
+| 莱茵石腕套碎片 | Rhinestone Wristlet Fragment | ![Rhinestone Wristlet Fragment][Rhinestone-Wristlet] |
+| 红宝石吊坠碎片 | Ruby Locket Fragment | ![Ruby Locket Fragment][Ruby-Locket] |
+| 锐钢碎片 | Sharpsteel Shard Fragment | ![Sharpsteel Shard Fragment][Sharpsteel-Shard] |
+| 太阳石吊坠碎片 | Sunstone Pendant Fragment | ![Sunstone Pendant Fragment][Sunstone-Pendant] |
+
+[Cracked-Citrine-Ring]: https://minecraft.wiki/images/ItemSprite_cracked-citrine-ring-fragment.png
+[Chipped-Onyx-Amulet]: https://minecraft.wiki/images/ItemSprite_chipped-onyx-amulet-fragment.png
+[Chipped-Rhinestone-Wristlet]: https://minecraft.wiki/images/ItemSprite_chipped-rhinestone-wristlet-fragment.png
+[Chipped-Ruby-Locket]: https://minecraft.wiki/images/ItemSprite_chipped-ruby-locket-fragment.png
+[Chipped-Sapphire-Necklace]: https://minecraft.wiki/images/ItemSprite_chipped-sapphire-necklace-fragment.png
+[Amethyst-Charm]: https://minecraft.wiki/images/ItemSprite_amethyst-charm-fragment.png
+[Citrine-Ring]: https://minecraft.wiki/images/ItemSprite_citrine-ring-fragment.png
+[Onyx-Amulet]: https://minecraft.wiki/images/ItemSprite_onyx-amulet-fragment.png
+[Opal-Ring]: https://minecraft.wiki/images/ItemSprite_opal-ring-fragment.png
+[Rhinestone-Wristlet]: https://minecraft.wiki/images/ItemSprite_rhinestone-wristlet-fragment.png
+[Ruby-Locket]: https://minecraft.wiki/images/ItemSprite_ruby-locket-fragment.png
+[Sharpsteel-Shard]: https://minecraft.wiki/images/ItemSprite_sharpsteel-shard-fragment.png
+[Sunstone-Pendant]: https://minecraft.wiki/images/ItemSprite_sunstone-pendant-fragment.png
 
 ### 神器
+
+| 中文名称 | 英文名称 | 图标 |
+| --- | --- | --- |
+| 狂怒护身符碎片 | Talisman of Rage Fragment | ![Talisman of Rage Fragment][Talisman-of-Rage] |
+| 溺尸石 / 溺亡之石碎片 | Drowned Stone Fragment | ![Drowned Stone Fragment][Drowned-Stone] |
+| 低语神像碎片 | Whispering Idol Fragment | ![Whispering Idol Fragment][Whispering-Idol] |
+| 岩浆圣杯碎片 | Chalice of Magma Fragment | ![Chalice of Magma Fragment][Chalice-of-Magma] |
+| 叉舌图章 / 蛇信图章碎片 | Forked Tongue Signet Fragment | ![Forked Tongue Signet Fragment][Forked-Tongue-Signet] |
+| 护盾翼挂饰 / 守护之翼挂饰碎片 | Shield Wing Charm Fragment | ![Shield Wing Charm Fragment][Shield-Wing-Charm] |
+| 修道会吊坠碎片 | Pendant of the Order Fragment | ![Pendant of the Order Fragment][Pendant-of-the-Order] |
+| 已充电电池碎片 | Charged Battery Fragment | ![Charged Battery Fragment][Charged-Battery] |
+
+[Talisman-of-Rage]: https://minecraft.wiki/images/ItemSprite_talisman-of-rage-fragment.png
+[Drowned-Stone]: https://minecraft.wiki/images/ItemSprite_drowned-stone-fragment.png
+[Whispering-Idol]: https://minecraft.wiki/images/ItemSprite_whispering-idol-fragment.png
+[Chalice-of-Magma]: https://minecraft.wiki/images/ItemSprite_chalice-of-magma-fragment.png
+[Forked-Tongue-Signet]: https://minecraft.wiki/images/ItemSprite_forked-tongue-signet-fragment.png
+[Shield-Wing-Charm]: https://minecraft.wiki/images/ItemSprite_shield-wing-charm-fragment.png
+[Pendant-of-the-Order]: https://minecraft.wiki/images/ItemSprite_pendant-of-the-order-fragment.png
+[Charged-Battery]: https://minecraft.wiki/images/ItemSprite_charged-battery-fragment.png
+
+## 其他
+
+| 中文名称 | 英文名称 | 图标 |
+| --- | --- | --- |
+| 代币 | Scrip | ![Scrip][Scrip] |
+| 灵魂精华 | Soul Essence | ![Soul Essence][Soul-Essence] |
+| 灵魂珍品 | Caged Soul Curio | ![Caged Soul Curio][Caged-Soul-Curio] |
+| 灵魂催化剂 | Soul Catalyst | ![Soul Catalyst][Soul-Catalyst] |
+
+[Scrip]: https://minecraft.wiki/images/ItemSprite_scrip.png
+[Soul-Essence]: https://minecraft.wiki/images/ItemSprite_soul-essence.png
+[Caged-Soul-Curio]: https://minecraft.wiki/images/ItemSprite_soulforge.png
+[Soul-Catalyst]: https://minecraft.wiki/images/ItemSprite_soul-catalyst.png
